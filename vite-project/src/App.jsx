@@ -1,8 +1,8 @@
-
+import Chai from "./new"
 function App() {
 
   return (
-    <h1>dhruval with | pipe</h1>
+   <Chai />
   )
 }
 
